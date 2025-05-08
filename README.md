@@ -67,7 +67,7 @@ Prediksi dilakukan dengan menggunakan `tf.lite.Interpreter` dan divisualisasikan
 ## Struktur Direktori Output
 
 ```
-/content/
+/Submission/
 ├── saved_model/        # Model dalam format SavedModel
 ├── tflite/
 │   ├── model.tflite    # Model dalam format TFLite
